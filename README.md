@@ -6,14 +6,24 @@ This dataset, available at [Kaggle](https://www.kaggle.com/datasets/ruchi798/dat
 I analysed the dataset using MySQL.
 
 ## Process
--- First I checked the dataset if it doesn't contain any null or missing values. The dataset is cleaned alerady.
--- Next I wanted to see how many countries are there in the dataset and with how many entries. Based on the results I decided to split the dataset in two bigger groups (US based companies and nonUS based comapnies).
--- Following step is to compare a
+- First I checked the dataset if it doesn't contain any null or missing values. The dataset is cleaned alerady.
+- Next I wanted to see how many countries are there in the dataset and with how many entries. Based on the results I decided to split the dataset in two bigger groups (US based companies and nonUS based comapnies).
+- Following step is to compare a
 
 
 ## Questions
 
-  Before I started analyzing the dataset I wrote down questions I am interested in finding answer for
+  Before I started analyzing the dataset I wrote down questions I am interested in finding answers for:
+  - How many countries are in the dataset and how many entries are there for each country?
+    (Note: After reviewing the results I decided to split the dataset it two main groups US based companies and nonUS based companies)
+  - What is the average salary for each group? 
+    (Note: Seeing the amount of entries for each group I wanted to see what is the median of salaries for each group instead)
+  - What is the lowest and highest salary?
+  - Is the average salary rising with different year?
+  - Is the number of senior/executive position rising?
+  - What is the percentage for remote:hybrid:in office positions? 
+  - Does remote work affect the salary?
+  - 
 
 ## Datasets limitations, issues and interesting insight: 
 1. Some of the salaries are per month and others per year. It is not possible to tell which ones are which as countries salaries and employment type varies.
