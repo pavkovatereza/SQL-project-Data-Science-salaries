@@ -1,7 +1,7 @@
 ## 📚 Data Science Job Salaries Dataset
 This dataset, available at [Kaggle](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries), contains information about salaries from years 2020 to 2022 for jobs realted to Data Science. Information about company location, experience level, remote ratio and employment type are also included. 
 
-Dataset was analysed using MySQL.
+Dataset was analysed using MySQL, the exact code used can be found in this [repository](https://github.com/pavkovatereza/SQL-project-Data-Science-salaries/blob/main/Data_Science_salaries.sql).
 
 ## ❓ Questions
 
