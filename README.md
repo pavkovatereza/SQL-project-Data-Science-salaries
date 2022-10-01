@@ -49,4 +49,4 @@ A big difference can be also seen in the approach to remote work. In the US 75% 
 
 In general, large companies are more likely to offer higher salaries compare to medium and small-size companies. A full-time contract is the most common type of employment.
 
-The numbers also show that the majority of employees (91,6%) reside in the same country as the company headquarters. I would be very interested to see whether this is caused by company policies and contract conditions as many job ads are published as remote within a specific country/state or by employees decisions.
+The numbers also show that the majority of employees (91,6%) reside in the same country as the company headquarters. I would be very interested to see whether this is caused by company policies and contract conditions, as many job ads are published as remote within a specific country/state, or by employees decisions.
