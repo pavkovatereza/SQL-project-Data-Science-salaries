@@ -36,11 +36,9 @@ Dataset was analyzed using MySQL, the code used for analysis can be found in thi
 5. Average salary for remote position is slightly higher in US companies, for nonUS companies the average salary is not affected by remote work conditions.
 7. **In the US 94% of executive level positions are working remotely, for nonUS only 30% ofexecutive level positions are working remotely.**
 8. Large nonUS companies are more likely to offer a hybrid position. Small and medium non US and all sizes of US companies are prone to offer a remote position.
-10. Large companies are more likely to offer a higher salary.
-11. Full-time contract is the most common type of employment for both groups.
-12. The most common job titles are data scientist, data engineer, and data analyst.
-13. The most data-related positions are working for medium-sized companies. 
-14. Vast majority of employees are residents of the same country as the company location.
+9. Full-time contract is the most common type of employment for both groups.
+10. The most common job titles are data scientist, data engineer, and data analyst.
+11. Vast majority of employees are residents of the same country as the company location.
 
 ## 🎯 Conclusion
 Even though the dataset contains only a limited amount of data, it still offers an interesting insight into data science employment conditions. I Analyze thoroughly the data using MySQL. The most interesting outcome is the huge difference between the salary that is offered by companies in the US and outside the US. In average it is 144,000 USD for US companies compared to 67,500 USD for companies located outside the US. 
