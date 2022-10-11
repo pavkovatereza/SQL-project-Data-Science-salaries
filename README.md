@@ -3,6 +3,8 @@ This dataset, available at [Kaggle](https://www.kaggle.com/datasets/ruchi798/dat
 
 Dataset was analyzed using MySQL, the code used for analysis can be found in this [repository](https://github.com/pavkovatereza/SQL-project-Data-Science-salaries/blob/main/Data_Science_salaries.sql).
 
+Visualization was created using Tableau Public and is available [here](https://public.tableau.com/app/profile/tereza.pavkova/viz/DataScienceSalaries_16647362211800/DataScienceSalaries).
+
 ## ❓ Questions
 
   Before I started analyzing the dataset I wrote down questions I am interested in finding answers for:
