@@ -43,7 +43,7 @@ Visualization was created using Tableau Public and is available [here](https://p
 11. Vast majority of employees are residents of the same country as the company location.
 
 ## 🎯 Conclusion
-Even though the dataset contains only a limited amount of data, it still offers an interesting insight into data science employment conditions. I Analyze thoroughly the data using MySQL. The most interesting outcome is the huge difference between the salary that is offered by companies in the US and outside the US. In average it is 144,000 USD for US companies compared to 67,500 USD for companies located outside the US. 
+Even though the dataset contains only a limited amount of data, it still offers an interesting insight into data science employment conditions. I analyzed the data thorougly using MySQL. The most interesting outcome is the huge difference between the salary that is offered by companies in the US and outside the US. In average it is 144,000 USD for US companies compared to 67,500 USD for companies located outside the US. 
 
 A big difference can be also seen in the approach to remote work. In the US 75% of positions are remote. Companies outside the US slowly follow with the trend with only 46% remote positions and 31% hybrid positions. Those numbers clearly show that data science and analysis can be done remotely and that the idea of shorter/less frequent commute is getting more and more popular. In fact, remote positions are often better paid (applies to US-based companies).
 
